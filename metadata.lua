@@ -2,7 +2,7 @@ return PlaceObj('ModDef', {
 	'title', "Tidy Depots 2",
 	'description', "",
 	'image', "depots.png",
-	'last_changes', "",
+	'last_changes', "https://github.com/FizzleFuze/Tidy_Depots_2/blob/master/changelog.md",
 	'id', "pBmJ0OX",
 	'steam_id', "2596833811",
 	'pops_desktop_uuid', "b1723514-0b3a-4fd0-bccd-e62689b68950",
