@@ -1,8 +1,8 @@
 return PlaceObj('ModDef', {
 	'title', "Tidy Depots 2",
-	'description', "TBD",
+	'description', "",
 	'image', "depots.png",
-	'last_changes', "- Added option to adjust delay, in hours, between re-balancing calculations.\n  -> Lower = Faster, but more system resources used (may lag with many depots and/or slow system)\n  -> Higher = Slower updates, but less system use (lag)\n  -> Default = 2 (it often takes a couple of hours to move resources around the zone)\n- New and improved algorithm for balancing between sectors\n- Numerous code improvements and bug fixes",
+	'last_changes', "",
 	'id', "pBmJ0OX",
 	'steam_id', "2596833811",
 	'pops_desktop_uuid', "b1723514-0b3a-4fd0-bccd-e62689b68950",
@@ -10,7 +10,7 @@ return PlaceObj('ModDef', {
 	'author', "Fizzle_Fuze",
 	'version_major', 1,
 	'version_minor', 2,
-	'version', 13,
+	'version', 69,
 	'lua_revision', 1009413,
 	'saved_with_revision', 1010784,
 	'code', {
